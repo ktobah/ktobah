@@ -22,4 +22,4 @@
 
 [![Top Languages](https://github-readme-stats-puce-psi.vercel.app/api/top-langs/?username=ktobah&layout=compact)](https://github.com/ktobah)
 
-[![Wakatime](https://github-readme-stats-puce-psi.vercel.app/api/wakatime?layout=compact&username=ktobah)](https://github.com/ktobah)
+<!-- [![Wakatime](https://github-readme-stats-puce-psi.vercel.app/api/wakatime?layout=compact&username=ktobah)](https://github.com/ktobah) -->
