@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
-## A Husband, a Data Scientist, and a Life-Long Learner
+## A data scientist & life-long learner
 
 🔭 I’m currently working on [MyWebsite](https://github.com/ktobah/MyWebsite)
 
